@@ -1,0 +1,15 @@
+/* Todo los que inician con ^ */
+a[href^="http"] {
+  color: red;
+}
+
+
+/* Todos los que terminan con $ */
+a[href$="com"] {
+  color: red;
+}
+
+/* Se puede pero. si es un id es mejor #telefono */
+input[type="tel"] {
+  border: 5px solid red;
+}

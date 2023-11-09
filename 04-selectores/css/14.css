@@ -1,0 +1,10 @@
+/* .heading,
+.descripcion,
+.oferta {
+  color: red;
+} */
+
+/* Otra forma de hacerlo mas corto */
+p:not(.texto):not(.oferta) {
+  color: red;
+}

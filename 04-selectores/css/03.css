@@ -1,0 +1,23 @@
+.texto {
+  background-color: red;
+}
+
+
+.azul {
+  color: blue;
+}
+
+
+.mayusculas {
+  text-transform: uppercase;
+}
+
+/* Selector de 2 clases -- Tiene que tener esas 2 clases a fuerzas */
+.texto.mayusculas {
+  font-size: 10rem;
+}
+
+
+.texto.azul {
+  text-align: right;
+}

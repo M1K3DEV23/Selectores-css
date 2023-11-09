@@ -1,0 +1,5 @@
+/* Otro tambien usado es :frist-oftype */
+ul li:first-child {
+  border: 2px solid red;
+}
+

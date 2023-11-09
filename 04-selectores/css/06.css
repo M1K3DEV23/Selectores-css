@@ -1,0 +1,10 @@
+/* Orden es un importante */
+/* Especificidad en CSS es clave */
+div.texto {
+  background-color: yellow;
+}
+
+
+/* .texto {
+  background-color: red;
+} */

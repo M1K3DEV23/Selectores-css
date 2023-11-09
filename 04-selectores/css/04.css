@@ -1,0 +1,8 @@
+/* Padre -- Hijo */
+.header .descripcion {
+  color: red;
+}
+
+.descripcion {
+  color: blue;
+}

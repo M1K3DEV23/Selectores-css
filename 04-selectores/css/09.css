@@ -1,0 +1,4 @@
+/* Se va al siguente hijo del contenedor de admin */
+.admin div + p {
+  background-color: red;
+}

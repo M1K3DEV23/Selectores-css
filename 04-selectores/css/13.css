@@ -1,0 +1,11 @@
+/* No se inicia a contar desde el cero */
+ul li:nth-child(4n + 4) {
+  border: 2px solid red;
+}
+
+/* Otra opcion */
+/* 2n + 1 */
+/* odd -- impares */
+/* even -- pares */
+/* 4n + 1 */
+/* Cada cuatro: 4n + 4 */
